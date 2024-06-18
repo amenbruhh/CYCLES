@@ -9,13 +9,13 @@ public class Main {
 
         // задача 2
 
-        for (int i = 10; i > 0; i --) {
+        for (int i = 10; i > 0; i--) {
             System.out.println(i);
         }
 
         // задача 3
 
-        for (int i = 0; i <17; i = i +2) {
+        for (int i = 0; i < 17; i = i + 2) {
             System.out.println(i);
         }
 
@@ -27,7 +27,7 @@ public class Main {
 
         // задача 5
 
-        for (int y = 1906; y <= 2096; y++) {
+        for (int y = 1904; y <= 2096; y++) {
             if (y % 4 == 0) {
                 System.out.println(y + " год является високосным");
             }
@@ -41,7 +41,7 @@ public class Main {
 
         // задача 7
 
-        for (int i = 1; i <= 512; i = i *2) {
+        for (int i = 1; i <= 512; i = i * 2) {
             System.out.println(i);
         }
 
